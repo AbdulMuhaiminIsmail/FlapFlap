@@ -1,3 +1,4 @@
+; This prints string in text mode
 [org 0x0100]
 
 jmp start
