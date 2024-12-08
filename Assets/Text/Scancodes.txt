@@ -1,0 +1,99 @@
+01 Esc
+02 1
+03 2
+04 3
+05 4
+06 5
+07 6
+08 7
+09 8
+0A 9
+0B 0
+0C -
+0D =
+0E Backspace
+0F Tab
+10 Q
+11 W
+12 E
+13 R
+14 T
+15 Y
+16 U
+17 I
+18 O
+19 P
+1A [
+1B ]
+1C Enter
+1D Ctrl (Left)
+1E A
+1F S
+20 D
+21 F
+22 G
+23 H
+24 J
+25 K
+26 L
+27 ;
+28 '
+29 `
+2A Shift (Left)
+2B Backslash
+2C Z
+2D X
+2E C
+2F V
+30 B
+31 N
+32 M
+33 ,
+34 .
+35 /
+36 Shift (Right)
+37 Keypad * (Multiply)
+38 Alt (Left)
+39 Space
+3A Caps Lock
+3B F1
+3C F2
+3D F3
+3E F4
+3F F5
+40 F6
+41 F7
+42 F8
+43 F9
+44 F10
+45 Num Lock
+46 Scroll Lock
+47 Keypad 7
+48 Keypad 8
+49 Keypad 9
+4A Keypad -
+4B Keypad 4
+4C Keypad 5
+4D Keypad 6
+4E Keypad +
+4F Keypad 1
+50 Keypad 2
+51 Keypad 3
+52 Keypad 0
+53 Keypad . (Decimal)
+57 F11
+58 F12
+E01C Keypad Enter
+E01D Ctrl (Right)
+E035 Keypad / (Divide)
+E038 Alt (Right)
+E047 Home
+E048 Up Arrow
+E049 Page Up
+E04B Left Arrow
+E04D Right Arrow
+E04F End
+E050 Down Arrow
+E051 Page Down
+E052 Insert
+E053 Delete
